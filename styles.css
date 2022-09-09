@@ -1,0 +1,24 @@
+.recipeList {
+    background-color: cadetblue;
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
+body {
+    background-color:burlywood;
+}
+.chicken {
+    background-color: brown;
+    color: bisque;
+}
+.cheese {
+    background-color: orange;
+    color: brown;
+}
+.zucc {
+    background-color: cornsilk;
+    color: darkviolet;
+}
+.defaultTextFont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
