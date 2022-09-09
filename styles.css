@@ -23,6 +23,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .pngSizeFormat {
-    height: "auto";
-    width: "400";
+    height: auto;
+    width: 400px;
 }
