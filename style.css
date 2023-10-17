@@ -1,10 +1,17 @@
 .title {
     color: black;
-    background-color: aquamarine;
+    background-color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .list {
-    background-color: aquamarine;
+    background-color: darkgoldenrod;
+    color:white;
+    padding: 20px;
+}
+
+.list-items {
+    color:aliceblue
 }
 
 .background {
@@ -14,4 +21,8 @@
 .links {
     color: blue;
     background-color: azure;
+}
+
+.default-font-family{
+    font-family: Arial, Helvetica, sans-serif;
 }
