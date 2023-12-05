@@ -1,16 +1,18 @@
 .title {
     color: black;
     background-color: gainsboro;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
-    border: 20px solid aliceblue;
+    border: 6px solid aliceblue;
     margin: 20px;
 }
 
 .list {
+    color: black;
     background-color: gainsboro;
-    color:black;
-    padding: 20px;
+    padding: 2px;
+    border: 2px solid aliceblue;
 }
 
 .list-items {
@@ -24,13 +26,22 @@
 
 .links {
     color: blue;
+    text-align: center;
     background-color: gainsboro;
-    padding: 20px;
-    border: 20px solid aliceblue;
-    margin: 20px;
+    padding: 2px;
+    border: 2px solid aliceblue;
+    margin: 100px;
+    display:block;
 }
 
 .default-font-family{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+}
+
+.paragraph{
+    color: black;
+    background-color: gainsboro;
+    padding: 2px;
+    border: 2px solid aliceblue;
 }
